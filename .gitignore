@@ -7,3 +7,5 @@ __pycache__/
 *.BACKUP.*
 .venv/
 .env
+ticket_*.png
+.vscode/
